@@ -1,7 +1,7 @@
 
 All significant changes to this FHIR implementation guide will be documented on this page.
 
-### v3.0.0 (2023)
+### v3.0.0 (2023) Test
 * Adjustments to the current published [CH EMED 4.0.0-ballot](https://fhir.ch/ig/ch-emed/4.0.0-ballot/index.html) (see [changelog](http://fhir.ch/ig/ch-emed/changelog.html))
 * Div. updates according the new specification [eMedication Plan ChMed23A (V1.0)](https://emediplan.ch/wp-content/uploads/2023/09/20230815_eMediplan_ChMed23A_1.0-AND-eMediplan_ChMed23A_Posology_1.0.pdf) (see changelog integrated in the document)
    * Renaming the implementation guide: CHMED20AF -> CHMED (version independent)
