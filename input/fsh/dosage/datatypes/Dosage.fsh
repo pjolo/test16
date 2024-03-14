@@ -11,6 +11,6 @@ Description: "Dosage according to the 'eMedication Plan ChMed Posology'"
 * route from $edqm-routeofadministration (required)
 * method from CDTYP62 (required)
 * doseAndRate.doseRange only CHEMEDRangeWithEmedUnits
-* doseAndRate.doseQuantity only CHEMEDQuantityWithEmedUnits
+// * doseAndRate.doseQuantity only CHEMEDQuantityWithEmedUnits
 * doseAndRate.doseQuantity.extension contains CHMEDDoseQuantityTo named doseQuantityTo 0..1
 * maxDosePerPeriod only CHEMEDRatioWithEmedUnits
