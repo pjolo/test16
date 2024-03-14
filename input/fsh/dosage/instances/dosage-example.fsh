@@ -9,6 +9,7 @@ Usage: #example
 * status = #active
 * medicationReference.reference = "#medication"
 * subject = Reference(card1-patient-petermuster)
+* informationSource.reference = "PractitionerRole/practitionerrole-weiseweitblick"
 
 /* example 5.2 */
 * dosage[baseEntry][+].additionalInstruction = $sct#307165006 "Before meal (qualifier value)"
