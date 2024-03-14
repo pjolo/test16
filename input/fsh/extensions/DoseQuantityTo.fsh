@@ -7,7 +7,7 @@ Description: "CHMED extension for representing the change of a dose quantity (fr
 * ^context[+].type = #element
 * ^context[=].expression = "Dosage.doseAndRate.doseQuantity"
 * . ^short = "CHMED Dose Quantity To"
-* valueQuantity only CHEMEDQuantityWithEmedUnits
+// * valueQuantity only CHEMEDQuantityWithEmedUnits
 * valueQuantity 1..
 
 
