@@ -8,7 +8,7 @@ Usage: #example
 * identifier.value = "urn:uuid:0b46bccd-f007-46bf-b7ab-5eb642958896"
 * status = #final
 * type.coding[0] = $loinc#56445-0 "Medication summary Document"
-* type.coding[+] = $sct#736378000 "Meedication management plan (record artifact)"
+* type.coding[+] = $sct#736378000 "Medication management plan (record artifact)"
 * subject = Reference(card1-patient-petermuster)
 * date = "2023-02-09T09:42:09+01:00"
 * author[person] = Reference(practitionerrole-weiseweitblick)
