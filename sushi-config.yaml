@@ -22,8 +22,8 @@ copyright: CC0-1.0
 jurisdiction: urn:iso:std:iso:3166#CHE
 
 dependencies:
-  ch.fhir.ig.ch-emed: current
-  ch.fhir.ig.ch-core: current
+  ch.fhir.ig.ch-emed: 4.0.1
+  ch.fhir.ig.ch-core: 4.0.1
 
 # ----- Define IG tabs (page content) -----
 menu:

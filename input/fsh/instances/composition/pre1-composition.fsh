@@ -20,7 +20,7 @@ Usage: #example
 * confidentiality = #N
 
 * section[prescription].title = "Arzneimittelverordnung"
-* section[prescription].code = $loinc#57828-6 "PRESCRIPTIONS"
+* section[prescription].code = $loinc#57828-6 "Prescription list"
 * section[prescription].entry = Reference(pre1-medicationrequest-antibiotikum)
 
 * section[annotation].title = "Kommentar"
