@@ -9,6 +9,7 @@ Usage: #example
 * status = #active
 * medicationReference.reference = "#medication"
 * subject = Reference(card1-patient-petermuster)
+* dateAsserted = "2011-11-29T11:00:00+01:00"
 * informationSource.reference = "PractitionerRole/practitionerrole-weiseweitblick"
 
 /* example 5.2 */

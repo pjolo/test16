@@ -11,6 +11,7 @@ Usage: #example
 * subject = Reference(card1-patient-petermuster)
 * informationSource = Reference(practitionerrole-franznotfall)
 * reasonCode.text = "Infektion"
+* dateAsserted = "2011-11-29T11:00:00+01:00"
 
 * dosage[baseEntry][0].patientInstruction = "nach dem Essen"
 * dosage[baseEntry][=].timing.repeat.boundsPeriod.start = "2023-02-09"

@@ -11,6 +11,7 @@ Usage: #example
 * subject = Reference(card1-patient-petermuster)
 * informationSource = Reference(practitionerrole-rezeptpraxis)
 * reasonCode.text = "Beruhigung"
+* dateAsserted = "2011-11-29T11:00:00+01:00"
 
 * dosage[baseEntry][0].patientInstruction = "nur i.m., nur durch instruierte Personen!"
 * dosage[baseEntry][=].timing.repeat.when = #MORN

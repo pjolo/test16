@@ -11,6 +11,8 @@ Usage: #example
 * intent = #order
 * medicationReference.reference = "#antibiotikum"
 * subject = Reference(pre1-patient-petermuster)
+* authoredOn = "2012-02-04T14:00:00+01:00"
+* requester.reference = "PractitionerRole/practitionerrole-weiseweitblick"
 
 * dosageInstruction[baseEntry][0].patientInstruction = "nach dem Essen"
 * dosageInstruction[baseEntry][=].timing.repeat.boundsPeriod.start = "2023-02-09"

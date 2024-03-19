@@ -11,6 +11,7 @@ Usage: #example
 * subject = Reference(card1-patient-petermuster)
 * informationSource = Reference(practitionerrole-docteurcardiologie)
 * reasonCode.text = "Bluthochdruck"
+* dateAsserted = "2011-11-29T11:00:00+01:00"
 
 * dosage[baseEntry][0].timing.repeat.when = #MORN
 * dosage[baseEntry][=].route = urn:oid:0.4.0.127.0.16.1.1.2.1#20053000 "Oral use"

@@ -11,6 +11,7 @@ Usage: #example
 * subject = Reference(card1-patient-petermuster)
 * informationSource = Reference(practitionerrole-exampleclinique)
 * reasonCode.text = "Cholesterinsenker"
+* dateAsserted = "2011-11-29T11:00:00+01:00"
 
 * dosage[baseEntry][+].sequence = 1
 * dosage[baseEntry][=].timing.repeat.when = #MORN

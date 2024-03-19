@@ -11,6 +11,7 @@ Usage: #example
 * subject = Reference(card1-patient-petermuster)
 * informationSource = Reference(card1-patient-petermuster)
 * reasonCode.text = "Schmerzen"
+* dateAsserted = "2011-11-29T11:00:00+01:00"
 
 * dosage[baseEntry][0].patientInstruction = "bis zu max. 4 mal täglich 1 Tablette einnehmen"
 * dosage[baseEntry][=].asNeededBoolean = true
